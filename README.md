@@ -34,7 +34,6 @@ project-root/
 │   └── index.html
 │
 ├── server.js
-├── package.json
 └── README.md
 </pre>
 
@@ -92,5 +91,6 @@ http://localhost:3000
 - HTML5
 - CSS3
 - JavaScript
+
 
 
