@@ -27,10 +27,13 @@ This project was chosen because it is practical and aligns well with the topics 
 project-root/
 ├── public/
 │ └── style.css
+│
 ├── views/
 │ └── index.html
+│
 ├── server.js
 └── README.md
+
 
 
 ## Installation & Run Instructions
@@ -84,3 +87,4 @@ http://localhost:3000
 - HTML5
 - CSS3
 - JavaScript
+
