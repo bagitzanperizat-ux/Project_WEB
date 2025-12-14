@@ -24,15 +24,20 @@ This project was chosen because it is practical and aligns well with the topics 
 - Online purchasing functionality (future implementation)
 
 ## Project Structure
+
+<pre>
 project-root/
 ├── public/
-│ └── style.css
+│   └── style.css
 │
 ├── views/
-│ └── index.html
+│   └── index.html
 │
 ├── server.js
+├── package.json
 └── README.md
+</pre>
+
 
 
 
@@ -87,4 +92,5 @@ http://localhost:3000
 - HTML5
 - CSS3
 - JavaScript
+
 
